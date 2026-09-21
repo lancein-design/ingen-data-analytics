@@ -7,3 +7,4 @@ nltk
 spacy
 gensim
 jupyter
+openpyxl
