@@ -1,0 +1,901 @@
+month,platform,unit_id,kpi_name,kpi_category,kpi_field,kpi_value,data_origin
+2025-01-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,93.17943828579902,SYNTHETIC
+2025-01-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,94.7955281520363,SYNTHETIC
+2025-01-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,88.24320218786906,SYNTHETIC
+2025-01-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.2238246165209,SYNTHETIC
+2025-01-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,93.15482455242504,SYNTHETIC
+2025-02-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.5177584779147,SYNTHETIC
+2025-02-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,91.81304346943936,SYNTHETIC
+2025-02-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,90.08723171036004,SYNTHETIC
+2025-02-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,96.9328313179605,SYNTHETIC
+2025-02-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,90.67780127685262,SYNTHETIC
+2025-03-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,95.85506296228824,SYNTHETIC
+2025-03-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,96.36043806429916,SYNTHETIC
+2025-03-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.58477336856843,SYNTHETIC
+2025-03-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.76820169361535,SYNTHETIC
+2025-03-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,88.66824753979664,SYNTHETIC
+2025-04-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,95.70286093884889,SYNTHETIC
+2025-04-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,98.95834304330208,SYNTHETIC
+2025-04-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.42852920515406,SYNTHETIC
+2025-04-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.43662231201488,SYNTHETIC
+2025-04-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,93.73639502311208,SYNTHETIC
+2025-05-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.60715356150706,SYNTHETIC
+2025-05-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,96.87814296927635,SYNTHETIC
+2025-05-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.36383691685968,SYNTHETIC
+2025-05-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,99.27235502633484,SYNTHETIC
+2025-05-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,88.2854660156836,SYNTHETIC
+2025-06-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.3170958456637,SYNTHETIC
+2025-06-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.55779572943642,SYNTHETIC
+2025-06-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,91.31378956309833,SYNTHETIC
+2025-06-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.66899792864808,SYNTHETIC
+2025-06-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,96.75647447661608,SYNTHETIC
+2025-07-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,93.02224997617216,SYNTHETIC
+2025-07-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,88.16026730864431,SYNTHETIC
+2025-07-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,98.7633079610572,SYNTHETIC
+2025-07-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,93.45294038905011,SYNTHETIC
+2025-07-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,96.43816522053604,SYNTHETIC
+2025-08-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.6734489065608,SYNTHETIC
+2025-08-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.247432051096,SYNTHETIC
+2025-08-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.09306577199061,SYNTHETIC
+2025-08-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,90.50272805701503,SYNTHETIC
+2025-08-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,94.38780966658427,SYNTHETIC
+2025-09-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,96.00768431339397,SYNTHETIC
+2025-09-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,94.38477748675848,SYNTHETIC
+2025-09-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.37693626776291,SYNTHETIC
+2025-09-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,91.6364627459765,SYNTHETIC
+2025-09-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,90.69715423007494,SYNTHETIC
+2025-10-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,99.14552833949882,SYNTHETIC
+2025-10-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.25515596280596,SYNTHETIC
+2025-10-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.18820820437864,SYNTHETIC
+2025-10-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.19850972378411,SYNTHETIC
+2025-10-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,97.806982990767,SYNTHETIC
+2025-11-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,91.5185011777325,SYNTHETIC
+2025-11-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.89764399329538,SYNTHETIC
+2025-11-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.3281339450295,SYNTHETIC
+2025-11-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,89.98943611970334,SYNTHETIC
+2025-11-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,88.97533329921129,SYNTHETIC
+2025-12-01,Aido Rover,AR-01,Patrol Coverage Rate,Coverage,patrol_coverage_pct,92.781785124962,SYNTHETIC
+2025-12-01,Aido Rover,AR-02,Patrol Coverage Rate,Coverage,patrol_coverage_pct,88.76542685498455,SYNTHETIC
+2025-12-01,Aido Rover,AR-03,Patrol Coverage Rate,Coverage,patrol_coverage_pct,93.22465656118008,SYNTHETIC
+2025-12-01,Aido Rover,AR-04,Patrol Coverage Rate,Coverage,patrol_coverage_pct,95.90814806541005,SYNTHETIC
+2025-12-01,Aido Rover,AR-05,Patrol Coverage Rate,Coverage,patrol_coverage_pct,98.52593574328388,SYNTHETIC
+2025-01-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,82.41758241758241,SYNTHETIC
+2025-01-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,85.07462686567165,SYNTHETIC
+2025-01-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,93.6842105263158,SYNTHETIC
+2025-01-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,98.66666666666669,SYNTHETIC
+2025-01-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,86.41975308641975,SYNTHETIC
+2025-02-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,89.8876404494382,SYNTHETIC
+2025-02-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,93.18181818181816,SYNTHETIC
+2025-02-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,93.90243902439023,SYNTHETIC
+2025-02-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,90.9090909090909,SYNTHETIC
+2025-02-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,92.3076923076923,SYNTHETIC
+2025-03-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,97.72727272727272,SYNTHETIC
+2025-03-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,88.40579710144928,SYNTHETIC
+2025-03-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,92.3076923076923,SYNTHETIC
+2025-03-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,87.5,SYNTHETIC
+2025-03-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,87.5,SYNTHETIC
+2025-04-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,93.5064935064935,SYNTHETIC
+2025-04-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,95.83333333333334,SYNTHETIC
+2025-04-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,98.86363636363636,SYNTHETIC
+2025-04-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,100.0,SYNTHETIC
+2025-04-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,94.44444444444444,SYNTHETIC
+2025-05-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,97.33333333333334,SYNTHETIC
+2025-05-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,88.65979381443299,SYNTHETIC
+2025-05-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,92.40506329113924,SYNTHETIC
+2025-05-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,97.8021978021978,SYNTHETIC
+2025-05-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,91.57894736842104,SYNTHETIC
+2025-06-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,96.42857142857144,SYNTHETIC
+2025-06-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,98.85057471264368,SYNTHETIC
+2025-06-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,91.57894736842104,SYNTHETIC
+2025-06-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,91.86046511627907,SYNTHETIC
+2025-06-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,89.1566265060241,SYNTHETIC
+2025-07-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,94.2528735632184,SYNTHETIC
+2025-07-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,89.13043478260869,SYNTHETIC
+2025-07-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,97.8021978021978,SYNTHETIC
+2025-07-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,100.0,SYNTHETIC
+2025-07-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,92.53731343283582,SYNTHETIC
+2025-08-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,93.05555555555556,SYNTHETIC
+2025-08-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,95.58823529411764,SYNTHETIC
+2025-08-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,93.90243902439023,SYNTHETIC
+2025-08-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,94.66666666666669,SYNTHETIC
+2025-08-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,89.87341772151899,SYNTHETIC
+2025-09-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,96.92307692307692,SYNTHETIC
+2025-09-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,92.2077922077922,SYNTHETIC
+2025-09-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,91.46341463414636,SYNTHETIC
+2025-09-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,89.74358974358975,SYNTHETIC
+2025-09-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,93.33333333333331,SYNTHETIC
+2025-10-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,92.7710843373494,SYNTHETIC
+2025-10-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,91.02564102564102,SYNTHETIC
+2025-10-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,96.15384615384616,SYNTHETIC
+2025-10-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,91.56626506024097,SYNTHETIC
+2025-10-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,88.75,SYNTHETIC
+2025-11-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,98.64864864864865,SYNTHETIC
+2025-11-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,97.53086419753086,SYNTHETIC
+2025-11-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,90.72164948453609,SYNTHETIC
+2025-11-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,100.0,SYNTHETIC
+2025-11-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,86.58536585365853,SYNTHETIC
+2025-12-01,Aido Rover,AR-01,Incident Detection Rate,Detection,incident_detection_pct,91.95402298850574,SYNTHETIC
+2025-12-01,Aido Rover,AR-02,Incident Detection Rate,Detection,incident_detection_pct,94.52054794520548,SYNTHETIC
+2025-12-01,Aido Rover,AR-03,Incident Detection Rate,Detection,incident_detection_pct,98.52941176470588,SYNTHETIC
+2025-12-01,Aido Rover,AR-04,Incident Detection Rate,Detection,incident_detection_pct,97.4025974025974,SYNTHETIC
+2025-12-01,Aido Rover,AR-05,Incident Detection Rate,Detection,incident_detection_pct,85.8974358974359,SYNTHETIC
+2025-01-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,2.5974025974025974,SYNTHETIC
+2025-01-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,1.7241379310344829,SYNTHETIC
+2025-01-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-01-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,3.896103896103896,SYNTHETIC
+2025-01-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,5.405405405405405,SYNTHETIC
+2025-02-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-02-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,3.5294117647058822,SYNTHETIC
+2025-02-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,3.75,SYNTHETIC
+2025-02-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-02-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,1.36986301369863,SYNTHETIC
+2025-03-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-03-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,1.6129032258064515,SYNTHETIC
+2025-03-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-03-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,2.0,SYNTHETIC
+2025-03-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,4.10958904109589,SYNTHETIC
+2025-04-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,1.36986301369863,SYNTHETIC
+2025-04-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,2.8169014084507045,SYNTHETIC
+2025-04-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,3.333333333333333,SYNTHETIC
+2025-04-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-04-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,4.49438202247191,SYNTHETIC
+2025-05-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,1.351351351351351,SYNTHETIC
+2025-05-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,6.521739130434782,SYNTHETIC
+2025-05-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,1.351351351351351,SYNTHETIC
+2025-05-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,1.1111111111111112,SYNTHETIC
+2025-05-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-06-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,1.2195121951219512,SYNTHETIC
+2025-06-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-06-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,4.395604395604396,SYNTHETIC
+2025-06-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,4.819277108433735,SYNTHETIC
+2025-06-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,3.896103896103896,SYNTHETIC
+2025-07-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,1.2048192771084338,SYNTHETIC
+2025-07-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,2.380952380952381,SYNTHETIC
+2025-07-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,1.1111111111111112,SYNTHETIC
+2025-07-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,1.162790697674419,SYNTHETIC
+2025-07-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,4.615384615384616,SYNTHETIC
+2025-08-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,4.285714285714286,SYNTHETIC
+2025-08-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-08-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,1.282051282051282,SYNTHETIC
+2025-08-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,1.3888888888888888,SYNTHETIC
+2025-08-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-09-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,1.5625,SYNTHETIC
+2025-09-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,4.054054054054054,SYNTHETIC
+2025-09-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,3.8461538461538463,SYNTHETIC
+2025-09-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,4.10958904109589,SYNTHETIC
+2025-09-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,6.666666666666667,SYNTHETIC
+2025-10-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,3.75,SYNTHETIC
+2025-10-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,4.054054054054054,SYNTHETIC
+2025-10-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,2.5974025974025974,SYNTHETIC
+2025-10-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,3.79746835443038,SYNTHETIC
+2025-10-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,2.73972602739726,SYNTHETIC
+2025-11-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-11-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,1.25,SYNTHETIC
+2025-11-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,3.296703296703297,SYNTHETIC
+2025-11-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,1.4705882352941175,SYNTHETIC
+2025-11-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-12-01,Aido Rover,AR-01,False Alarm Rate,Alert Quality,false_alert_pct,2.4390243902439024,SYNTHETIC
+2025-12-01,Aido Rover,AR-02,False Alarm Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-12-01,Aido Rover,AR-03,False Alarm Rate,Alert Quality,false_alert_pct,2.898550724637681,SYNTHETIC
+2025-12-01,Aido Rover,AR-04,False Alarm Rate,Alert Quality,false_alert_pct,5.063291139240507,SYNTHETIC
+2025-12-01,Aido Rover,AR-05,False Alarm Rate,Alert Quality,false_alert_pct,2.898550724637681,SYNTHETIC
+2025-01-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,96.18770834297224,SYNTHETIC
+2025-01-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,94.1345428390752,SYNTHETIC
+2025-01-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,94.32683291406912,SYNTHETIC
+2025-01-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,99.894717909798,SYNTHETIC
+2025-01-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,96.31617902346731,SYNTHETIC
+2025-02-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,97.72681995482016,SYNTHETIC
+2025-02-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,97.07196717458208,SYNTHETIC
+2025-02-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,95.39679473951593,SYNTHETIC
+2025-02-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,95.16940494055608,SYNTHETIC
+2025-02-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,95.72315004885571,SYNTHETIC
+2025-03-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,98.39409671985612,SYNTHETIC
+2025-03-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,98.53502020231416,SYNTHETIC
+2025-03-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,94.30657501214412,SYNTHETIC
+2025-03-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,94.33766844690425,SYNTHETIC
+2025-03-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,96.1629894711024,SYNTHETIC
+2025-04-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,96.57919632134676,SYNTHETIC
+2025-04-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,95.7164152450267,SYNTHETIC
+2025-04-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,97.77342330029894,SYNTHETIC
+2025-04-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,96.97673284213862,SYNTHETIC
+2025-04-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,97.135325141927,SYNTHETIC
+2025-05-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,95.17945839460312,SYNTHETIC
+2025-05-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,97.9038014526898,SYNTHETIC
+2025-05-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,98.04588573819008,SYNTHETIC
+2025-05-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,97.60810727526471,SYNTHETIC
+2025-05-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,99.47201670517376,SYNTHETIC
+2025-06-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,97.94357747456378,SYNTHETIC
+2025-06-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,94.90437746808452,SYNTHETIC
+2025-06-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,98.33586965763072,SYNTHETIC
+2025-06-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,99.58154427599275,SYNTHETIC
+2025-06-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,99.32963444458792,SYNTHETIC
+2025-07-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,95.2660495696352,SYNTHETIC
+2025-07-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,95.35497057699324,SYNTHETIC
+2025-07-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,94.81070678722304,SYNTHETIC
+2025-07-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,94.7033834045667,SYNTHETIC
+2025-07-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,98.42490287381808,SYNTHETIC
+2025-08-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,98.80272026952962,SYNTHETIC
+2025-08-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,98.22090206473322,SYNTHETIC
+2025-08-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,97.63537763014232,SYNTHETIC
+2025-08-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,97.47100686561312,SYNTHETIC
+2025-08-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,98.73215274321578,SYNTHETIC
+2025-09-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,96.63232202588677,SYNTHETIC
+2025-09-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,97.7404531589184,SYNTHETIC
+2025-09-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,94.69091103881064,SYNTHETIC
+2025-09-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,98.64585010971712,SYNTHETIC
+2025-09-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,97.66919686291396,SYNTHETIC
+2025-10-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,98.5946303333982,SYNTHETIC
+2025-10-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,98.89362882780814,SYNTHETIC
+2025-10-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,95.85519588320514,SYNTHETIC
+2025-10-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,95.8552590812908,SYNTHETIC
+2025-10-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,96.05338539811612,SYNTHETIC
+2025-11-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,97.41739545675718,SYNTHETIC
+2025-11-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,97.84639305092183,SYNTHETIC
+2025-11-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,99.82112611505352,SYNTHETIC
+2025-11-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,95.85197088183172,SYNTHETIC
+2025-11-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,96.0173689374194,SYNTHETIC
+2025-12-01,Aido Rover,AR-01,Uptime Percentage,Reliability,uptime_pct,94.24552362578515,SYNTHETIC
+2025-12-01,Aido Rover,AR-02,Uptime Percentage,Reliability,uptime_pct,97.50715861616304,SYNTHETIC
+2025-12-01,Aido Rover,AR-03,Uptime Percentage,Reliability,uptime_pct,98.8698571160583,SYNTHETIC
+2025-12-01,Aido Rover,AR-04,Uptime Percentage,Reliability,uptime_pct,98.16189755635564,SYNTHETIC
+2025-12-01,Aido Rover,AR-05,Uptime Percentage,Reliability,uptime_pct,96.93180791716904,SYNTHETIC
+2025-01-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2230184192129063,SYNTHETIC
+2025-01-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.197168549910864,SYNTHETIC
+2025-01-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.128541109220348,SYNTHETIC
+2025-01-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2240200024894075,SYNTHETIC
+2025-01-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2408528276471591,SYNTHETIC
+2025-02-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1767241549007789,SYNTHETIC
+2025-02-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1234579327808528,SYNTHETIC
+2025-02-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2113972242788436,SYNTHETIC
+2025-02-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2250030462923984,SYNTHETIC
+2025-02-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2138312276823673,SYNTHETIC
+2025-03-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1721320573021043,SYNTHETIC
+2025-03-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2665618952220173,SYNTHETIC
+2025-03-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1358581026527801,SYNTHETIC
+2025-03-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2684472688275648,SYNTHETIC
+2025-03-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1741530373275721,SYNTHETIC
+2025-04-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2320424163203599,SYNTHETIC
+2025-04-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1609544144908164,SYNTHETIC
+2025-04-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.142362945752633,SYNTHETIC
+2025-04-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2208018951322238,SYNTHETIC
+2025-04-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1837684010722465,SYNTHETIC
+2025-05-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2459079004003421,SYNTHETIC
+2025-05-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1351146668898424,SYNTHETIC
+2025-05-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2718172682744545,SYNTHETIC
+2025-05-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2186094351884052,SYNTHETIC
+2025-05-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1692056115873257,SYNTHETIC
+2025-06-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2104377770369902,SYNTHETIC
+2025-06-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.215901246643335,SYNTHETIC
+2025-06-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2311677006109597,SYNTHETIC
+2025-06-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2124827545292067,SYNTHETIC
+2025-06-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2741137957679007,SYNTHETIC
+2025-07-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2565444917229066,SYNTHETIC
+2025-07-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2284253877780572,SYNTHETIC
+2025-07-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2481414681736155,SYNTHETIC
+2025-07-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1644920873250011,SYNTHETIC
+2025-07-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1398191639782753,SYNTHETIC
+2025-08-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1236339317014176,SYNTHETIC
+2025-08-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1409692402491701,SYNTHETIC
+2025-08-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2103920978355907,SYNTHETIC
+2025-08-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1257695734843782,SYNTHETIC
+2025-08-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2516132944987891,SYNTHETIC
+2025-09-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1682419342636602,SYNTHETIC
+2025-09-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.142454335530226,SYNTHETIC
+2025-09-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2252581256064844,SYNTHETIC
+2025-09-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1890269112287824,SYNTHETIC
+2025-09-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1207200199903454,SYNTHETIC
+2025-10-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1918978403430062,SYNTHETIC
+2025-10-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1572225187146294,SYNTHETIC
+2025-10-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1436453396067506,SYNTHETIC
+2025-10-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1990626634427877,SYNTHETIC
+2025-10-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1678309841790249,SYNTHETIC
+2025-11-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2570582854547801,SYNTHETIC
+2025-11-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1926235011322079,SYNTHETIC
+2025-11-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2721911456006146,SYNTHETIC
+2025-11-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1223492549696113,SYNTHETIC
+2025-11-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.249189056956205,SYNTHETIC
+2025-12-01,Aido Rover,AR-01,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1727777939732456,SYNTHETIC
+2025-12-01,Aido Rover,AR-02,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2519462704730146,SYNTHETIC
+2025-12-01,Aido Rover,AR-03,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1933676930877682,SYNTHETIC
+2025-12-01,Aido Rover,AR-04,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.2225421815337855,SYNTHETIC
+2025-12-01,Aido Rover,AR-05,Energy Consumption per Patrol Hour,Efficiency,energy_kwh_per_hour,0.1784605541118613,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,91.54929577464787,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,96.34146341463416,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,95.65217391304348,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,94.2528735632184,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,85.71428571428571,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,92.0,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,96.66666666666669,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,95.0,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,88.57142857142857,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,96.7741935483871,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,94.5945945945946,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,84.61538461538461,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,92.85714285714286,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,91.54929577464787,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,96.7032967032967,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,98.48484848484848,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,87.37864077669903,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,96.20253164556962,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,98.8095238095238,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,87.87878787878788,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,95.23809523809524,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,96.55172413793105,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,94.31818181818184,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,91.25,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,98.7012987012987,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,93.05555555555556,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,80.28169014084507,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,93.5483870967742,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,94.44444444444444,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,90.9090909090909,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,90.0,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,95.18072289156626,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,94.9367088607595,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,88.88888888888889,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,96.15384615384616,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,89.33333333333333,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,93.15068493150685,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,86.41975308641975,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,91.2087912087912,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,92.5925925925926,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,88.73239436619718,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,98.30508474576273,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,92.3076923076923,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,93.75,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,87.8048780487805,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,98.57142857142858,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,90.625,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,98.59154929577466,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,84.28571428571429,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,85.88235294117646,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,95.83333333333334,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,97.26027397260276,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,92.5531914893617,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,89.13043478260869,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,87.8048780487805,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-01,Incident Detection Rate,Detection,incident_detection_pct,87.20930232558139,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-02,Incident Detection Rate,Detection,incident_detection_pct,100.0,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-03,Incident Detection Rate,Detection,incident_detection_pct,89.13043478260869,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-04,Incident Detection Rate,Detection,incident_detection_pct,95.0,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-05,Incident Detection Rate,Detection,incident_detection_pct,88.76404494382022,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,4.411764705882353,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,2.469135802469136,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,1.1235955056179776,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,2.380952380952381,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,1.818181818181818,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,2.8169014084507045,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,3.333333333333333,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,1.5873015873015872,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,3.225806451612903,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,5.405405405405405,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,2.941176470588235,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,2.985074626865672,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,1.1235955056179776,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,1.5151515151515151,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,2.1739130434782608,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,5.0,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,2.3529411764705883,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,2.3529411764705883,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,2.666666666666667,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,2.564102564102564,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,5.0,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,4.918032786885246,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,4.49438202247191,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,1.4084507042253522,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,2.702702702702702,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,2.469135802469136,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,2.5974025974025974,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,1.7543859649122806,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,1.3157894736842104,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,1.4705882352941175,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,1.4492753623188406,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,2.7777777777777777,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,3.076923076923077,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,1.694915254237288,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,1.36986301369863,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,1.3157894736842104,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,4.0,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,5.47945205479452,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,1.4084507042253522,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,1.6666666666666667,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,3.947368421052632,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,0.0,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,2.73972602739726,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,3.333333333333333,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,2.380952380952381,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,6.493506493506493,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-01,False Positive Rate,Alert Quality,false_alert_pct,1.3157894736842104,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-02,False Positive Rate,Alert Quality,false_alert_pct,2.0,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-03,False Positive Rate,Alert Quality,false_alert_pct,3.5294117647058822,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-04,False Positive Rate,Alert Quality,false_alert_pct,6.557377049180328,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-05,False Positive Rate,Alert Quality,false_alert_pct,2.469135802469136,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,11.571992917229316,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,4.707275749208073,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,17.16026615130521,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,7.609317735832962,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,16.463695465530662,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,7.37920886277328,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,9.546331000829484,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,5.759293940159504,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,14.840702616562716,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,6.897792234971757,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,16.635755569069246,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,16.45518990345556,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,5.665346350362959,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,5.931965242870675,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,12.54679094278504,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,17.436843312609085,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,14.268928663879615,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,16.88932201582995,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,13.606280818612106,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,15.933352451023728,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,5.562405155489174,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,16.65562607229256,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,12.946191089698305,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,4.719868163797012,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,10.980953656268412,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,5.568985193981765,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,8.467854840395324,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,14.166521797374616,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,16.30696291522544,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,16.12602448863428,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,7.394759942396658,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,6.280201007763768,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,10.294857637917527,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,13.131606490521976,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,10.314651002593571,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,4.663236280076746,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,6.60072588819522,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,11.865465020881992,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,9.522741251142564,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,6.324876853795624,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,15.892094663256907,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,7.534108067694222,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,5.284131506826093,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,14.520871347999543,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,17.23727847430669,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,15.38423084148158,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,15.841157409229996,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,7.852135358423987,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,10.282213100817508,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,15.01309597491039,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,8.850701175700532,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,9.667969501971474,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,8.486876263492226,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,11.712722758865642,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,12.31981772022212,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-01,Mean Operator Response Time,Response,operator_response_min,6.012061260377478,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-02,Mean Operator Response Time,Response,operator_response_min,9.789951038339575,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-03,Mean Operator Response Time,Response,operator_response_min,12.85083500160807,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-04,Mean Operator Response Time,Response,operator_response_min,7.789754660931498,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-05,Mean Operator Response Time,Response,operator_response_min,9.84667009715664,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.12994962623009,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,94.54024369779953,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.76787711466136,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,94.44557511505658,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,93.16951534316074,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.54741581885531,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.45382839959773,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,98.47474687430253,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.27274584040372,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,92.65007437699268,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,96.66348819852271,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,92.34507964044612,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,98.08533248392116,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,96.69811771285596,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,90.25929327439648,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.13302952543175,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.6620230719188,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.755257741199,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.1795540835618,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,96.29698666431682,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,92.2295481578892,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.5212979325313,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,88.02539649845417,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.39490874345788,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,93.4303928389771,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.49041020114964,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,94.69615241788073,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,93.072093731704,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.0570475626907,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,94.48264282740224,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,93.27849740606172,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.53018280733043,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.8173645865606,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.05440049157804,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,94.24727653471342,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.52025908802383,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,93.74213531503165,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.917607885237,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,96.11577311717012,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.95425182359924,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,88.0521553220306,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.24251344531996,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.34238915461437,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.30801382837356,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,92.31733207691438,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.50239029611306,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,94.78431796985038,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.52519945856761,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,92.3220999436678,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.63787673420715,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,88.20937562599235,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,96.3601646891844,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,98.7374122976088,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.11401617322664,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,97.65962167121091,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-01,Coverage Area Rate,Coverage,monitoring_coverage_pct,95.62404969622672,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-02,Coverage Area Rate,Coverage,monitoring_coverage_pct,92.94845229938538,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-03,Coverage Area Rate,Coverage,monitoring_coverage_pct,91.67522393654632,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-04,Coverage Area Rate,Coverage,monitoring_coverage_pct,93.74110317846178,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-05,Coverage Area Rate,Coverage,monitoring_coverage_pct,89.30238991496535,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.80171976066624,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.11045042253492,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.54408066338362,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.72525627673386,SYNTHETIC
+2025-01-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,98.9663319292711,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,98.6269608767318,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.4829987719182,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,98.95308190272588,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,98.80408782676702,SYNTHETIC
+2025-02-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.7699829978484,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.13718398478557,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.84721311848254,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.20595824067428,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,98.79251782134176,SYNTHETIC
+2025-03-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.2550982631684,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.51821337092896,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.36055133664463,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.3519702784043,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.25231200362371,SYNTHETIC
+2025-04-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.55073337110665,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,98.73855696438147,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.90150760608762,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.77991016326024,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.01414829200915,SYNTHETIC
+2025-05-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.70216366707864,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,98.97990212228972,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.57607262121164,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.42580128473732,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.14485529102774,SYNTHETIC
+2025-06-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.47884982458666,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.7750355703058,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,98.79406334455275,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.12573344448332,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.74894049737264,SYNTHETIC
+2025-07-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.25468724894408,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.97964197106934,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.6956744456025,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.02632158463892,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,98.95243245458244,SYNTHETIC
+2025-08-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.72459346491922,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.48622538628328,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.23327174403724,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.3650906054117,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.6686964908024,SYNTHETIC
+2025-09-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.54067631666406,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.48178820243945,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.81208865999346,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.08466412497825,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.2122640343868,SYNTHETIC
+2025-10-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.6897518376298,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,98.86894147431336,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,99.80797001287026,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,99.17774388705696,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.96082384032078,SYNTHETIC
+2025-11-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.85724826757944,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-01,System Availability,Reliability,availability_pct,99.20603057827084,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-02,System Availability,Reliability,availability_pct,98.99502310521596,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-03,System Availability,Reliability,availability_pct,98.71727614756512,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-04,System Availability,Reliability,availability_pct,99.25604617865558,SYNTHETIC
+2025-12-01,Sentinel Prime AI,SP-05,System Availability,Reliability,availability_pct,99.28211822065896,SYNTHETIC
+2025-01-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,8.286528057099732,SYNTHETIC
+2025-01-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,8.719945252411053,SYNTHETIC
+2025-01-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,14.6258550963721,SYNTHETIC
+2025-01-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,13.500448880087214,SYNTHETIC
+2025-01-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,4.504098942523243,SYNTHETIC
+2025-02-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,12.580522427148251,SYNTHETIC
+2025-02-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,19.860099579192607,SYNTHETIC
+2025-02-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,6.820545999000292,SYNTHETIC
+2025-02-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,23.414203223924257,SYNTHETIC
+2025-02-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,4.683588218565204,SYNTHETIC
+2025-03-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,14.69796305951741,SYNTHETIC
+2025-03-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,7.3959994754541505,SYNTHETIC
+2025-03-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,15.604804334858862,SYNTHETIC
+2025-03-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,10.244285458441563,SYNTHETIC
+2025-03-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,21.87486257432544,SYNTHETIC
+2025-04-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,14.913513881620958,SYNTHETIC
+2025-04-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,9.291952106923166,SYNTHETIC
+2025-04-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,10.604025911954627,SYNTHETIC
+2025-04-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,16.373212238726353,SYNTHETIC
+2025-04-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,23.395431576620204,SYNTHETIC
+2025-05-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,22.61368977089241,SYNTHETIC
+2025-05-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,8.159961474169211,SYNTHETIC
+2025-05-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,17.495007127604467,SYNTHETIC
+2025-05-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,20.85463937612944,SYNTHETIC
+2025-05-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,20.318024309261883,SYNTHETIC
+2025-06-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,22.24897592591284,SYNTHETIC
+2025-06-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,17.80803909031003,SYNTHETIC
+2025-06-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,13.983884508444469,SYNTHETIC
+2025-06-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,12.287075439887223,SYNTHETIC
+2025-06-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,7.125826439219503,SYNTHETIC
+2025-07-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,7.65617540861953,SYNTHETIC
+2025-07-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,19.921208952517414,SYNTHETIC
+2025-07-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,4.0113625851788886,SYNTHETIC
+2025-07-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,10.896625187976756,SYNTHETIC
+2025-07-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,11.103297739877435,SYNTHETIC
+2025-08-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,12.73334978677679,SYNTHETIC
+2025-08-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,21.019942401043288,SYNTHETIC
+2025-08-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,14.004192986267045,SYNTHETIC
+2025-08-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,6.934864664153049,SYNTHETIC
+2025-08-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,21.525344660515984,SYNTHETIC
+2025-09-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,16.963674593342688,SYNTHETIC
+2025-09-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,21.533562775034056,SYNTHETIC
+2025-09-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,23.71242203024016,SYNTHETIC
+2025-09-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,9.316188265501314,SYNTHETIC
+2025-09-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,19.437210816878515,SYNTHETIC
+2025-10-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,6.623103383694199,SYNTHETIC
+2025-10-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,18.73046435403776,SYNTHETIC
+2025-10-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,6.54451923783656,SYNTHETIC
+2025-10-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,4.621392001396799,SYNTHETIC
+2025-10-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,6.5312758424792055,SYNTHETIC
+2025-11-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,11.153652630519485,SYNTHETIC
+2025-11-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,9.681026210530309,SYNTHETIC
+2025-11-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,15.634545959174298,SYNTHETIC
+2025-11-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,8.276616425559956,SYNTHETIC
+2025-11-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,5.871658906767455,SYNTHETIC
+2025-12-01,Fari,FA-01,Average Session Duration,Engagement,session_duration_min,12.964812663412138,SYNTHETIC
+2025-12-01,Fari,FA-02,Average Session Duration,Engagement,session_duration_min,15.270464739390746,SYNTHETIC
+2025-12-01,Fari,FA-03,Average Session Duration,Engagement,session_duration_min,13.54465819951593,SYNTHETIC
+2025-12-01,Fari,FA-04,Average Session Duration,Engagement,session_duration_min,14.664996196634162,SYNTHETIC
+2025-12-01,Fari,FA-05,Average Session Duration,Engagement,session_duration_min,18.589901757219582,SYNTHETIC
+2025-01-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,23.869822485207106,SYNTHETIC
+2025-01-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,21.135057471264368,SYNTHETIC
+2025-01-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,39.5187969924812,SYNTHETIC
+2025-01-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,8.598684210526315,SYNTHETIC
+2025-01-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,11.55625,SYNTHETIC
+2025-02-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,40.12469437652812,SYNTHETIC
+2025-02-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,23.257425742574256,SYNTHETIC
+2025-02-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,40.80473372781065,SYNTHETIC
+2025-02-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,23.400641025641026,SYNTHETIC
+2025-02-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,18.87350835322196,SYNTHETIC
+2025-03-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,40.41549295774648,SYNTHETIC
+2025-03-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,38.09913793103448,SYNTHETIC
+2025-03-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,13.604606525911707,SYNTHETIC
+2025-03-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,27.08843537414966,SYNTHETIC
+2025-03-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,21.532608695652176,SYNTHETIC
+2025-04-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,10.010791366906474,SYNTHETIC
+2025-04-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,35.349264705882355,SYNTHETIC
+2025-04-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,23.110132158590307,SYNTHETIC
+2025-04-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,15.445497630331754,SYNTHETIC
+2025-04-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,16.75294117647059,SYNTHETIC
+2025-05-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,24.396681749622925,SYNTHETIC
+2025-05-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,34.136986301369866,SYNTHETIC
+2025-05-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,18.29588014981273,SYNTHETIC
+2025-05-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,30.78299120234604,SYNTHETIC
+2025-05-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,35.88306451612903,SYNTHETIC
+2025-06-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,40.8962962962963,SYNTHETIC
+2025-06-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,33.296208530805686,SYNTHETIC
+2025-06-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,10.789473684210526,SYNTHETIC
+2025-06-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,38.084566596194506,SYNTHETIC
+2025-06-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,12.383033419023135,SYNTHETIC
+2025-07-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,28.90759075907591,SYNTHETIC
+2025-07-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,16.506963788300837,SYNTHETIC
+2025-07-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,24.742230347349174,SYNTHETIC
+2025-07-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,20.81163434903047,SYNTHETIC
+2025-07-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,37.65269461077844,SYNTHETIC
+2025-08-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,15.880913539967374,SYNTHETIC
+2025-08-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,16.606060606060606,SYNTHETIC
+2025-08-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,27.12524850894632,SYNTHETIC
+2025-08-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,33.76234567901235,SYNTHETIC
+2025-08-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,16.737789203084834,SYNTHETIC
+2025-09-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,10.30871212121212,SYNTHETIC
+2025-09-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,18.4783950617284,SYNTHETIC
+2025-09-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,16.98015873015873,SYNTHETIC
+2025-09-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,23.634146341463413,SYNTHETIC
+2025-09-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,17.631884057971014,SYNTHETIC
+2025-10-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,30.64750957854406,SYNTHETIC
+2025-10-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,16.106024096385543,SYNTHETIC
+2025-10-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,18.93383742911153,SYNTHETIC
+2025-10-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,25.085714285714285,SYNTHETIC
+2025-10-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,39.223918575063614,SYNTHETIC
+2025-11-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,40.19649122807017,SYNTHETIC
+2025-11-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,40.87935656836461,SYNTHETIC
+2025-11-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,33.857715430861724,SYNTHETIC
+2025-11-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,30.72537313432836,SYNTHETIC
+2025-11-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,26.67297297297297,SYNTHETIC
+2025-12-01,Fari,FA-01,Interaction Frequency,Engagement,interactions_per_active_user_day,12.351111111111113,SYNTHETIC
+2025-12-01,Fari,FA-02,Interaction Frequency,Engagement,interactions_per_active_user_day,18.440729483282677,SYNTHETIC
+2025-12-01,Fari,FA-03,Interaction Frequency,Engagement,interactions_per_active_user_day,23.085227272727277,SYNTHETIC
+2025-12-01,Fari,FA-04,Interaction Frequency,Engagement,interactions_per_active_user_day,12.067385444743936,SYNTHETIC
+2025-12-01,Fari,FA-05,Interaction Frequency,Engagement,interactions_per_active_user_day,41.23777777777778,SYNTHETIC
+2025-01-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,90.86021505376344,SYNTHETIC
+2025-01-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,70.16129032258065,SYNTHETIC
+2025-01-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,90.32258064516128,SYNTHETIC
+2025-01-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,57.68500948766604,SYNTHETIC
+2025-01-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,91.08159392789372,SYNTHETIC
+2025-02-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,60.863095238095234,SYNTHETIC
+2025-02-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,90.17857142857144,SYNTHETIC
+2025-02-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,63.53383458646616,SYNTHETIC
+2025-02-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,65.54621848739495,SYNTHETIC
+2025-02-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,88.02521008403362,SYNTHETIC
+2025-03-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,57.25806451612904,SYNTHETIC
+2025-03-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,93.5483870967742,SYNTHETIC
+2025-03-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,88.45500848896435,SYNTHETIC
+2025-03-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,55.78747628083492,SYNTHETIC
+2025-03-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,87.28652751423151,SYNTHETIC
+2025-04-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,77.22222222222223,SYNTHETIC
+2025-04-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,56.66666666666666,SYNTHETIC
+2025-04-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,79.64912280701755,SYNTHETIC
+2025-04-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,82.74509803921568,SYNTHETIC
+2025-04-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,66.66666666666666,SYNTHETIC
+2025-05-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,89.11290322580645,SYNTHETIC
+2025-05-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,73.58870967741935,SYNTHETIC
+2025-05-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,90.66213921901527,SYNTHETIC
+2025-05-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,64.70588235294117,SYNTHETIC
+2025-05-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,94.11764705882352,SYNTHETIC
+2025-06-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,56.25,SYNTHETIC
+2025-06-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,87.91666666666667,SYNTHETIC
+2025-06-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,56.66666666666666,SYNTHETIC
+2025-06-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,92.74509803921568,SYNTHETIC
+2025-06-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,76.27450980392156,SYNTHETIC
+2025-07-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,81.45161290322581,SYNTHETIC
+2025-07-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,72.37903225806451,SYNTHETIC
+2025-07-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,92.8692699490662,SYNTHETIC
+2025-07-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,68.50094876660341,SYNTHETIC
+2025-07-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,95.06641366223909,SYNTHETIC
+2025-08-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,82.39247311827957,SYNTHETIC
+2025-08-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,86.49193548387096,SYNTHETIC
+2025-08-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,85.39898132427844,SYNTHETIC
+2025-08-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,61.48007590132827,SYNTHETIC
+2025-08-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,73.81404174573055,SYNTHETIC
+2025-09-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,73.33333333333333,SYNTHETIC
+2025-09-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,67.5,SYNTHETIC
+2025-09-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,88.42105263157895,SYNTHETIC
+2025-09-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,96.47058823529412,SYNTHETIC
+2025-09-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,67.64705882352942,SYNTHETIC
+2025-10-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,70.16129032258065,SYNTHETIC
+2025-10-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,83.66935483870968,SYNTHETIC
+2025-10-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,89.81324278438031,SYNTHETIC
+2025-10-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,59.772296015180274,SYNTHETIC
+2025-10-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,74.573055028463,SYNTHETIC
+2025-11-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,79.16666666666666,SYNTHETIC
+2025-11-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,77.70833333333333,SYNTHETIC
+2025-11-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,87.54385964912281,SYNTHETIC
+2025-11-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,65.68627450980392,SYNTHETIC
+2025-11-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,72.54901960784314,SYNTHETIC
+2025-12-01,Fari,FA-01,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,60.483870967741936,SYNTHETIC
+2025-12-01,Fari,FA-02,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,66.33064516129032,SYNTHETIC
+2025-12-01,Fari,FA-03,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,89.64346349745331,SYNTHETIC
+2025-12-01,Fari,FA-04,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,70.39848197343453,SYNTHETIC
+2025-12-01,Fari,FA-05,Active-Day Engagement Rate,Engagement,active_day_engagement_pct,85.38899430740038,SYNTHETIC
+2025-01-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,4.256612887612087,SYNTHETIC
+2025-01-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,9.868399408379103,SYNTHETIC
+2025-01-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,10.013429492173206,SYNTHETIC
+2025-01-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,8.430653617388478,SYNTHETIC
+2025-01-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,4.819028701408199,SYNTHETIC
+2025-02-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,6.879687218741445,SYNTHETIC
+2025-02-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,10.630531805012891,SYNTHETIC
+2025-02-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,11.75111623140238,SYNTHETIC
+2025-02-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,7.952911551278754,SYNTHETIC
+2025-02-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,9.931682544997646,SYNTHETIC
+2025-03-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,11.241703720908388,SYNTHETIC
+2025-03-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,4.756669768367901,SYNTHETIC
+2025-03-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,9.969754841123992,SYNTHETIC
+2025-03-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,11.725127253530289,SYNTHETIC
+2025-03-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,6.833738683315644,SYNTHETIC
+2025-04-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,7.891460355718746,SYNTHETIC
+2025-04-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,6.86961344910043,SYNTHETIC
+2025-04-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,9.1744488255531,SYNTHETIC
+2025-04-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,11.34003439273154,SYNTHETIC
+2025-04-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,10.06249818766216,SYNTHETIC
+2025-05-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,8.50998907734557,SYNTHETIC
+2025-05-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,7.670231782383758,SYNTHETIC
+2025-05-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,9.143293099951949,SYNTHETIC
+2025-05-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,7.017505429293386,SYNTHETIC
+2025-05-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,3.607745829762481,SYNTHETIC
+2025-06-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,7.83496995324906,SYNTHETIC
+2025-06-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,11.846884543823164,SYNTHETIC
+2025-06-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,8.577474504416763,SYNTHETIC
+2025-06-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,7.696887912199703,SYNTHETIC
+2025-06-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,3.937363444225844,SYNTHETIC
+2025-07-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,5.886607070581064,SYNTHETIC
+2025-07-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,11.168444022514342,SYNTHETIC
+2025-07-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,6.887510949004337,SYNTHETIC
+2025-07-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,6.791521149149292,SYNTHETIC
+2025-07-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,7.072052113512822,SYNTHETIC
+2025-08-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,11.953334035466476,SYNTHETIC
+2025-08-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,10.63542678654973,SYNTHETIC
+2025-08-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,9.804838329415675,SYNTHETIC
+2025-08-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,6.026572473846255,SYNTHETIC
+2025-08-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,4.228234986400598,SYNTHETIC
+2025-09-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,10.035813428165508,SYNTHETIC
+2025-09-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,7.74711867065303,SYNTHETIC
+2025-09-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,11.86542027048784,SYNTHETIC
+2025-09-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,7.536575159080958,SYNTHETIC
+2025-09-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,6.409811607131616,SYNTHETIC
+2025-10-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,4.787252971781773,SYNTHETIC
+2025-10-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,9.101746672905405,SYNTHETIC
+2025-10-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,4.698409890260273,SYNTHETIC
+2025-10-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,6.526539389190475,SYNTHETIC
+2025-10-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,9.76367604251454,SYNTHETIC
+2025-11-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,7.305644334780101,SYNTHETIC
+2025-11-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,10.090135655749854,SYNTHETIC
+2025-11-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,3.1955111013368067,SYNTHETIC
+2025-11-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,11.100821503293144,SYNTHETIC
+2025-11-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,10.992258824047958,SYNTHETIC
+2025-12-01,Fari,FA-01,Average Response Time,Response,response_latency_sec,10.385013743758746,SYNTHETIC
+2025-12-01,Fari,FA-02,Average Response Time,Response,response_latency_sec,7.460445703810287,SYNTHETIC
+2025-12-01,Fari,FA-03,Average Response Time,Response,response_latency_sec,6.2369966429994985,SYNTHETIC
+2025-12-01,Fari,FA-04,Average Response Time,Response,response_latency_sec,4.6012123946653,SYNTHETIC
+2025-12-01,Fari,FA-05,Average Response Time,Response,response_latency_sec,11.539863814342128,SYNTHETIC
+2025-01-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,61.53846153846154,SYNTHETIC
+2025-01-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,74.12935323383084,SYNTHETIC
+2025-01-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,87.25490196078431,SYNTHETIC
+2025-01-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,83.9572192513369,SYNTHETIC
+2025-01-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,69.37269372693727,SYNTHETIC
+2025-02-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,85.66666666666667,SYNTHETIC
+2025-02-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,78.42323651452283,SYNTHETIC
+2025-02-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,74.17840375586854,SYNTHETIC
+2025-02-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,86.3013698630137,SYNTHETIC
+2025-02-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,71.7741935483871,SYNTHETIC
+2025-03-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,89.05109489051095,SYNTHETIC
+2025-03-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,72.65917602996255,SYNTHETIC
+2025-03-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,64.58333333333334,SYNTHETIC
+2025-03-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,73.8562091503268,SYNTHETIC
+2025-03-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,88.25757575757575,SYNTHETIC
+2025-04-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,82.29166666666666,SYNTHETIC
+2025-04-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,68.70748299319727,SYNTHETIC
+2025-04-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,68.50393700787401,SYNTHETIC
+2025-04-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,67.42424242424242,SYNTHETIC
+2025-04-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,86.86868686868688,SYNTHETIC
+2025-05-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,63.84615384615384,SYNTHETIC
+2025-05-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,92.23300970873788,SYNTHETIC
+2025-05-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,71.63323782234957,SYNTHETIC
+2025-05-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,77.94117647058823,SYNTHETIC
+2025-05-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,83.58662613981764,SYNTHETIC
+2025-06-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,65.65217391304347,SYNTHETIC
+2025-06-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,85.71428571428571,SYNTHETIC
+2025-06-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,73.52941176470588,SYNTHETIC
+2025-06-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,72.34848484848484,SYNTHETIC
+2025-06-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,82.56880733944955,SYNTHETIC
+2025-07-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,69.7406340057637,SYNTHETIC
+2025-07-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,73.05699481865285,SYNTHETIC
+2025-07-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,65.95092024539878,SYNTHETIC
+2025-07-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,73.48837209302326,SYNTHETIC
+2025-07-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,87.5,SYNTHETIC
+2025-08-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,80.24691358024691,SYNTHETIC
+2025-08-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,70.28985507246377,SYNTHETIC
+2025-08-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,84.30034129692832,SYNTHETIC
+2025-08-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,58.5,SYNTHETIC
+2025-08-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,89.38053097345133,SYNTHETIC
+2025-09-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,75.61728395061729,SYNTHETIC
+2025-09-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,80.68181818181817,SYNTHETIC
+2025-09-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,65.69579288025889,SYNTHETIC
+2025-09-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,69.38775510204081,SYNTHETIC
+2025-09-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,69.38775510204081,SYNTHETIC
+2025-10-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,76.1437908496732,SYNTHETIC
+2025-10-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,88.14229249011858,SYNTHETIC
+2025-10-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,82.0754716981132,SYNTHETIC
+2025-10-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,71.12299465240642,SYNTHETIC
+2025-10-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,73.39055793991416,SYNTHETIC
+2025-11-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,81.21212121212122,SYNTHETIC
+2025-11-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,62.17391304347826,SYNTHETIC
+2025-11-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,68.96551724137932,SYNTHETIC
+2025-11-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,77.94871794871796,SYNTHETIC
+2025-11-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,71.49122807017544,SYNTHETIC
+2025-12-01,Fari,FA-01,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,79.9163179916318,SYNTHETIC
+2025-12-01,Fari,FA-02,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,62.87128712871287,SYNTHETIC
+2025-12-01,Fari,FA-03,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,65.69767441860465,SYNTHETIC
+2025-12-01,Fari,FA-04,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,77.83251231527095,SYNTHETIC
+2025-12-01,Fari,FA-05,Goal-Oriented Interaction Success Rate,Success,goal_success_pct,84.2911877394636,SYNTHETIC
