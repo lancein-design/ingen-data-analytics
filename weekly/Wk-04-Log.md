@@ -1,0 +1,13 @@
+Week 4 Log — KPI Analytics Dashboard and Exploratory Data Analysis
+
+This week focused on converting the Week 3 simulated performance dataset into a more decision-oriented analytics output. I completed both a Python exploratory data analysis notebook and a Tableau KPI dashboard covering Aido Rover, Sentinel Prime AI, and Fari.
+
+In Python, I first validated the structure and quality of the simulated dataset, including record counts, platform coverage, monthly coverage, duplicate checks, and structural missingness. Because each platform has different operational KPIs, many missing values were expected rather than caused by incomplete data. I therefore retained these values instead of imputing them. I then selected a primary KPI for each platform and created more than eight visualizations, including KPI distribution plots, a correlation heatmap, monthly trend charts, a cross-platform comparison box plot, and a 1.5×IQR outlier analysis.
+
+One important finding was that the primary KPIs showed different levels of stability. Aido Rover maintained an average patrol coverage rate of approximately 93.3%, while Sentinel Prime AI achieved an average incident detection rate of approximately 92.5%. Fari's active-day engagement averaged approximately 77.0% and showed greater variation across the simulated months. The correlation heatmap also indicated that most KPI relationships were relatively weak, which is reasonable for a synthetic dataset designed to represent several different operational dimensions rather than a single tightly connected process.
+
+I also reshaped the Week 3 dataset into a Tableau-friendly long format and built an interactive KPI dashboard. The dashboard includes five KPI cards for each platform, a monthly trend chart for each platform's primary KPI, and a cross-platform comparison of incident detection performance between Aido Rover and Sentinel Prime AI. I added an interactive month filter so users can change the analysis period and observe how the KPI results respond.
+
+The main technical challenge this week was dashboard layout performance in Tableau Public. The application became unstable when repeatedly moving dashboard objects, so I minimized unnecessary layout changes and prioritized a stable, readable final dashboard. This reinforced the importance of balancing analytical completeness with usability and technical reliability.
+
+Overall, Week 4 helped me move from data preparation into analytical communication. The main lesson was that a useful dashboard should not simply display metrics; it should make the most important findings understandable within a short period of time. Next week, I will begin the NLP-focused phase of the internship.
