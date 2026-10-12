@@ -1,0 +1,73 @@
+{
+  "analysis_scope": "Exploratory analysis of collected public documents",
+  "analysis_version": "baseline_v1",
+  "category_document_counts": {
+    "company_content": 11,
+    "editorial_review": 1,
+    "government_program": 2,
+    "press_coverage": 6
+  },
+  "category_order": [
+    "company_content",
+    "editorial_review",
+    "government_program",
+    "press_coverage"
+  ],
+  "category_ranking": "Mean TF-IDF within each source category",
+  "document_count": 20,
+  "input_file": "data/W05_Text_Corpus_Preprocessed.csv",
+  "input_sha256": "84d066268ae8db3592e53aa0d56bf8225655eb68d48508fe1fec1af22522a837",
+  "matrix_shape": [
+    20,
+    2441
+  ],
+  "output_sha256": {
+    "W05_TFIDF_Category_AllTerms.csv": "900e9c5877a08df0b0e767f466fab64e040ff2d1c8020bb1428c6b23a011f4c8",
+    "W05_TFIDF_Category_Centroids.csv": "c3bcfcf43916eefed28beccf18c8c4c5c5ad29739b84863e66f3d17f9409564f",
+    "W05_TFIDF_Category_Similarity.csv": "6a24c196e155140185862bf4d54b3b75be154d53e1feeed6f14bdd28150e257c",
+    "W05_TFIDF_Category_Similarity_Pairs.csv": "4d6a3eb7dec28933e45a9ad5a3f183bbafa9dae6838f964790b1726cd55ebac9",
+    "W05_TFIDF_Category_Top10.csv": "7c386acb0b7b29f6120513a065fbc5ef6f265a962444538f4ff03b9e18e48e92",
+    "W05_TFIDF_Document_Index.csv": "ab685380964a2476a61a99d88e49e488bebb071dbeeacc55dc5f67d20e0ae2f6",
+    "W05_TFIDF_Matrix.npz": "2b17306843639be73f052c537ecafc33005d1fd7880a3220151cbd45193202a9",
+    "W05_TFIDF_Overall_AllTerms.csv": "ea3dfce0299e3a36cfa3ba84affc288b91ae90aebaeff0837da7c9f46c1fb235",
+    "W05_TFIDF_Overall_Top20.csv": "ce13f3d291c63576fd27c5e798684d9107ba1c5ade6aa1ef60a38bc7ad821f46",
+    "W05_TFIDF_Vocabulary_Index.csv": "a65e05a47beae051eb4b095c854317b9a32b8fbeeb5d8ab626687f51a43f81ba",
+    "figures/W05_TFIDF_Category_Similarity.png": "617b0882962106c1dd88172c51d84757db9fec15adb34671b2790cbdeef7e7ad",
+    "figures/W05_TFIDF_Category_Top10.png": "593c6b4d829bd54ae585abab8045c0ece5abc3d7fae9a66b14d835ae66372951",
+    "figures/W05_TFIDF_Overall_Top20.png": "941a2741727fb54b5f761e602c00e2600a48e11712fa004d03201603122e1573"
+  },
+  "overall_ranking": "Mean TF-IDF across documents",
+  "package_versions": {
+    "matplotlib": "3.11.2",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "seaborn": "0.13.2"
+  },
+  "preprocessing_config_sha256": "43196ffcf4c074bc56423b4a01d7d02f5ad6e711b03e4e790b863fef140453a1",
+  "python_version": "3.13.15",
+  "random_state": 42,
+  "ranking_tie_breaker": "Term in alphabetical order",
+  "similarity_method": "Cosine similarity between category centroids",
+  "tfidf_uses_randomness": false,
+  "tokenizer": "str.split",
+  "vectorizer_settings": {
+    "analyzer": "word",
+    "lowercase": false,
+    "max_df": 1.0,
+    "max_features": null,
+    "min_df": 1,
+    "ngram_range": [
+      1,
+      1
+    ],
+    "norm": "l2",
+    "smooth_idf": true,
+    "stop_words": null,
+    "sublinear_tf": true,
+    "token_pattern": null,
+    "use_idf": true
+  },
+  "vocabulary_size": 2441
+}

@@ -1,0 +1,7 @@
+﻿category_a,category_b,cosine_similarity
+company_content,press_coverage,0.4613038254915669
+company_content,government_program,0.33294018603280268
+editorial_review,press_coverage,0.32860257863883413
+company_content,editorial_review,0.31021154385885219
+government_program,press_coverage,0.29155852548580297
+editorial_review,government_program,0.19550284696864054

@@ -1,0 +1,67 @@
+{
+  "input_file": "data/W05_Text_Corpus_Preprocessed.csv",
+  "input_sha256": "84d066268ae8db3592e53aa0d56bf8225655eb68d48508fe1fec1af22522a837",
+  "document_count": 20,
+  "vocabulary_size": 2441,
+  "tested_topic_counts": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "selected_topic_count": 5,
+  "selected_training_perplexity": 1161.8837345725103,
+  "count_vectorizer_settings": {
+    "tokenizer": "str.split",
+    "token_pattern": null,
+    "lowercase": false,
+    "stop_words": null,
+    "ngram_range": [
+      1,
+      1
+    ],
+    "min_df": 1,
+    "max_df": 1.0,
+    "binary": false
+  },
+  "selected_model_parameters": {
+    "batch_size": 128,
+    "doc_topic_prior": null,
+    "evaluate_every": -1,
+    "learning_decay": 0.7,
+    "learning_method": "batch",
+    "learning_offset": 10.0,
+    "max_doc_update_iter": 100,
+    "max_iter": 50,
+    "mean_change_tol": 0.001,
+    "n_components": 5,
+    "n_jobs": 1,
+    "perp_tol": 0.1,
+    "random_state": 42,
+    "topic_word_prior": null,
+    "total_samples": 1000000.0,
+    "verbose": 0
+  },
+  "topic_labels": {
+    "Topic 1": "Social Companionship",
+    "Topic 2": "Product Features and Use",
+    "Topic 3": "Caregiver and Family Support",
+    "Topic 4": "Fari Technical Design",
+    "Topic 5": "Robotic Pets and Wellbeing"
+  },
+  "selection_basis": "Training perplexity, topic keywords, and representative article excerpts; no formal coherence or held-out evaluation.",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1"
+  },
+  "export_sha256": {
+    "W05_LDA_Model_Comparison.csv": "bad5e420118e5fc7b5f4ae722c8c4abb792429f2f5be2b87705b019804a14084",
+    "W05_LDA_Selected_Topic_Summary.csv": "dd9b2efde2f9e7e9e6047996300e0ca0fddbeabe7026d2c3321c6f916629383d",
+    "W05_LDA_Document_Topics.csv": "1e24a114b9a2677a66b3f2fbd0dce6ef3377a8a7f3f531097053aac7361f118c",
+    "W05_LDA_Topic_Word_Probabilities.csv": "601ae64455b6f3a9803fc5439418e26ee943da850e59f9c565527555b30ed0cc"
+  }
+}
