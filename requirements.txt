@@ -8,3 +8,9 @@ spacy
 gensim
 jupyter
 openpyxl
+requests
+beautifulsoup4
+trafilatura
+langdetect
+scipy
+ipython
