@@ -1,0 +1,4 @@
+﻿metric,numerator,denominator,percentage
+Rule coverage,12,20,60.0
+Rule abstention,8,20,40.0
+Disagreement among assigned labels,7,12,58.333333333333336

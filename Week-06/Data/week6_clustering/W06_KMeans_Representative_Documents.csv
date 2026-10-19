@@ -1,0 +1,13 @@
+﻿cluster,representative_rank,document_id,title,source_name,source_category,dominant_topic_label,distance_to_centroid,cluster_name
+0,1,DOC_f0af0df0a10c610b,"The Benefits of Robotic Pets for Dementia, Loneliness",AARP,press_coverage,Robotic Pets and Wellbeing,0,Robotic Pets and Wellbeing
+1,1,DOC_50ffbca5694c8ab5,How to Help an Aging Parent Stay Socially Connected,ElliQ,company_content,Caregiver and Family Support,0.72785821406413653,Caregiver Support and Aging at Home
+1,2,DOC_f7f36f3083d46cbe,AI in Caregiving: What It Can and Can’t Do,ElliQ,company_content,Caregiver and Family Support,0.74426188944496752,Caregiver Support and Aging at Home
+1,3,DOC_d78d4551e520e99a,How Technology Is Changing Caregiving at Home,ElliQ,company_content,Caregiver and Family Support,0.76347961622553928,Caregiver Support and Aging at Home
+2,1,DOC_601dcb0a9e7cfc80,‘Care bots’: a dream for carers or a dangerous fantasy?,The Guardian,press_coverage,Social Companionship,0.74875145308767532,"Care Technology, Design and Ethics"
+2,2,DOC_780610e1f4509b20,‘Care bots’ are on the rise and replacing human caregivers | Alexandra Mateescu and Virginia Eubanks,The Guardian,press_coverage,Caregiver and Family Support,0.74934001305517228,"Care Technology, Design and Ethics"
+2,3,DOC_18973ef41134ed44,Fari,InGen Dynamics,company_content,Fari Technical Design,0.77492594061635489,"Care Technology, Design and Ethics"
+3,1,DOC_9bd1073febe69088,NYSOFA reports ElliQ pilot outcomes and partnership continuation,NYS Government Press Releases,government_program,Caregiver and Family Support,0.53784687565504019,NYSOFA Deployment and Pilot Reporting
+3,2,DOC_ec7ad2898ff92252,NYSOFA introduces ElliQ to older adults in New York,NYS Government Press Releases,government_program,Caregiver and Family Support,0.53784687565504208,NYSOFA Deployment and Pilot Reporting
+4,1,DOC_dfba7aa407b222fa,ElliQ Review: a Robot Companion for Seniors │ The Senior List,The Senior List,editorial_review,Product Features and Use,0.76236989335598482,ElliQ Product Reporting and User Experience
+4,2,DOC_9ad8afcb88c0cf86,ElliQ is 93-year-old Juanita’s friend. She’s also a robot,The Guardian,press_coverage,Social Companionship,0.76652613967568684,ElliQ Product Reporting and User Experience
+4,3,DOC_ad507154dfd8ec6c,"ElliQ, A Social Home Robot for Older Adults, Now Available for Pre-Order",IEEE Spectrum,press_coverage,Social Companionship,0.8008082511626945,ElliQ Product Reporting and User Experience

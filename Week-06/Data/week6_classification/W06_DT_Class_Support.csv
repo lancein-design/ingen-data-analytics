@@ -1,0 +1,5 @@
+﻿rule_label,eligible_documents,training_documents,test_documents
+Product Performance Feedback,5,3,2
+Market Adoption Signal,2,2,0
+Competitive Positioning,3,2,1
+Regulatory or Safety Concern,2,2,0

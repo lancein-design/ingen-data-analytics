@@ -1,0 +1,5 @@
+﻿metric,value
+Training rule-label accuracy,1
+Test rule-label accuracy,0.33333333333333331
+Four-class macro F1 (zero_division=0),0.125
+Test-support-weighted F1,0.16666666666666666

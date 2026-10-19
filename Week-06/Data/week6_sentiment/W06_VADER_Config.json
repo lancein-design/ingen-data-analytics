@@ -1,0 +1,37 @@
+{
+  "method": "NLTK VADER",
+  "analysis_unit": "Full reviewed document",
+  "text_column": "text_for_nlp",
+  "positive_rule": "compound >= 0.05",
+  "negative_rule": "compound <= -0.05",
+  "neutral_rule": "-0.05 < compound < 0.05",
+  "topic_grouping": "Highest-proportion Week 5 LDA topic",
+  "document_count": 20,
+  "sentiment_counts": {
+    "Positive": 19,
+    "Negative": 1
+  },
+  "input_sha256": {
+    "data/W05_Text_Corpus_Preprocessed.csv": "84d066268ae8db3592e53aa0d56bf8225655eb68d48508fe1fec1af22522a837",
+    "data/lda_selected_v1/W05_LDA_Document_Topics.csv": "1e24a114b9a2677a66b3f2fbd0dce6ef3377a8a7f3f531097053aac7361f118c",
+    "data/week6_inputs/W06_Analysis_Input.csv": "9c5a63182e2874e9933b13beffe79deeb928a0b08bb252ab1250d25c0c0b5fb1"
+  },
+  "lexicon_sha256": "0aabac74cd95def2dbedc04ce55e39698d91113ffadb6d86b87dd337c4d2184d",
+  "python_version": "3.13.15",
+  "package_versions": {
+    "nltk": "3.10.3",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2"
+  },
+  "targeted_review_document_ids": [
+    "DOC_9a84489b2a82091f",
+    "DOC_dfba7aa407b222fa"
+  ],
+  "review_scope": "Two deliberately selected cases; qualitative diagnostics only, with no corpus-wide accuracy estimate.",
+  "output_sha256": {
+    "W06_VADER_Document_Scores.csv": "bab6b0d5b47015942797e1103cd347b059a56e01614635a8a62cf52d3d89a54e",
+    "W06_VADER_Source_Summary.csv": "3c0f24591bf548ed40cdc6b6e29b39d03cb299065e39737bee45c82f5b18ec9f",
+    "W06_VADER_Topic_Summary.csv": "c8fb1898fffdd22427ea8afb973a8b9bac353704d3a6978b65d7008cedbb472e"
+  }
+}

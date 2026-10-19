@@ -1,0 +1,51 @@
+﻿cluster,cluster_name,term_rank,matrix_column,term,centroid_weight
+0,Robotic Pets and Wellbeing,1,618,dog,0.16079599986711227
+0,Robotic Pets and Wellbeing,2,316,cat,0.14637117671587843
+0,Robotic Pets and Wellbeing,3,1866,robotic,0.14323094099300407
+0,Robotic Pets and Wellbeing,4,100,animal,0.14097898698719921
+0,Robotic Pets and Wellbeing,5,1890,sally,0.14097898698719921
+0,Robotic Pets and Wellbeing,6,543,dementia,0.12866250477167668
+0,Robotic Pets and Wellbeing,7,297,capital,0.12780870055711285
+0,Robotic Pets and Wellbeing,8,2323,veteran,0.12780870055711285
+0,Robotic Pets and Wellbeing,9,105,anne,0.11946189220408937
+0,Robotic Pets and Wellbeing,10,1292,mary,0.11946189220408937
+1,Caregiver Support and Aging at Home,1,1512,parent,0.075523647061565891
+1,Caregiver Support and Aging at Home,2,2124,support,0.068584440835408891
+1,Caregiver Support and Aging at Home,3,1932,senior,0.067788989432740504
+1,Caregiver Support and Aging at Home,4,510,daily,0.065518937526984594
+1,Caregiver Support and Aging at Home,5,989,help,0.062605138605758337
+1,Caregiver Support and Aging at Home,6,303,care,0.06193083332935128
+1,Caregiver Support and Aging at Home,7,684,emotional,0.058613732014302047
+1,Caregiver Support and Aging at Home,8,819,feel,0.057932708069595135
+1,Caregiver Support and Aging at Home,9,2065,stay,0.057643235708312673
+1,Caregiver Support and Aging at Home,10,1424,not,0.057499227031986781
+2,"Care Technology, Design and Ethics",1,2410,worker,0.063482387157710207
+2,"Care Technology, Design and Ethics",2,252,bot,0.060743232917878809
+2,"Care Technology, Design and Ethics",3,303,care,0.059524711860293691
+2,"Care Technology, Design and Ethics",4,1935,sensor,0.054664534448391311
+2,"Care Technology, Design and Ethics",5,1087,ingrid,0.053266645359871412
+2,"Care Technology, Design and Ethics",6,361,clinical,0.051967269947384057
+2,"Care Technology, Design and Ethics",7,2147,system,0.050755145104509083
+2,"Care Technology, Design and Ethics",8,2210,tom,0.049204750449528753
+2,"Care Technology, Design and Ethics",9,515,data,0.048402007955343697
+2,"Care Technology, Design and Ethics",10,531,decision,0.048385330830783682
+3,NYSOFA Deployment and Pilot Reporting,1,1442,nysofa,0.17551865907989558
+3,NYSOFA Deployment and Pilot Reporting,2,2436,york,0.12977729056110429
+3,NYSOFA Deployment and Pilot Reporting,3,1140,intuition,0.10402725285516007
+3,NYSOFA Deployment and Pilot Reporting,4,1519,partner,0.10376141366014344
+3,NYSOFA Deployment and Pilot Reporting,5,1455,office,0.10213776240089939
+3,NYSOFA Deployment and Pilot Reporting,6,1573,pilot,0.10147365558604561
+3,NYSOFA Deployment and Pilot Reporting,7,1410,new,0.09734031791176298
+3,NYSOFA Deployment and Pilot Reporting,8,1867,robotics,0.097230083711015144
+3,NYSOFA Deployment and Pilot Reporting,9,381,combat,0.090278362363093084
+3,NYSOFA Deployment and Pilot Reporting,10,154,association,0.087126583965809218
+4,ElliQ Product Reporting and User Experience,1,1865,robot,0.078605633897238722
+4,ElliQ Product Reporting and User Experience,2,1019,however,0.074427606430293974
+4,ElliQ Product Reporting and User Experience,3,1140,intuition,0.072915283921151222
+4,ElliQ Product Reporting and User Experience,4,1415,niemiec,0.071302329763842959
+4,ElliQ Product Reporting and User Experience,5,1867,robotics,0.068012533838257908
+4,ElliQ Product Reporting and User Experience,6,241,bit,0.062034592695948292
+4,ElliQ Product Reporting and User Experience,7,1899,say,0.058398326502666291
+4,ElliQ Product Reporting and User Experience,8,1424,not,0.05660490563825557
+4,ElliQ Product Reporting and User Experience,9,1243,little,0.052438396972468493
+4,ElliQ Product Reporting and User Experience,10,2184,thing,0.051568792818244336

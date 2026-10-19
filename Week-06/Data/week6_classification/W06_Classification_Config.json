@@ -1,0 +1,137 @@
+{
+  "method": "TF-IDF + Decision Tree",
+  "text_column": "text_preprocessed",
+  "target_column": "rule_label",
+  "target_source": "Frozen keyword rules v1",
+  "functional_labels": [
+    "Product Performance Feedback",
+    "Market Adoption Signal",
+    "Competitive Positioning",
+    "Regulatory or Safety Concern"
+  ],
+  "excluded_rule_labels": [
+    "Ambiguous",
+    "Unmatched"
+  ],
+  "manual_reference": {
+    "annotation_process": "AI-assisted, human-reviewed",
+    "documents_reviewed": 20,
+    "additional_label": "Other / Unclear",
+    "scope": "Descriptive corpus audit, not independent gold standard"
+  },
+  "split": {
+    "test_size_requested": 0.2,
+    "random_state": 42,
+    "shuffle": true,
+    "stratify": null,
+    "eligible_documents": 12,
+    "training_documents": 9,
+    "test_documents": 3,
+    "train_document_ids": [
+      "DOC_9bd1073febe69088",
+      "DOC_76ed7a86d9237deb",
+      "DOC_50ffbca5694c8ab5",
+      "DOC_18973ef41134ed44",
+      "DOC_ec7ad2898ff92252",
+      "DOC_601dcb0a9e7cfc80",
+      "DOC_9ad8afcb88c0cf86",
+      "DOC_5da508bf5e967d1d",
+      "DOC_775ed64b8f6204c2"
+    ],
+    "test_document_ids": [
+      "DOC_dfba7aa407b222fa",
+      "DOC_ad507154dfd8ec6c",
+      "DOC_02273cdab72e6af6"
+    ]
+  },
+  "tfidf": {
+    "fit_scope": "Training documents only",
+    "parameters": {
+      "analyzer": "word",
+      "binary": false,
+      "decode_error": "strict",
+      "dtype": "float64",
+      "encoding": "utf-8",
+      "input": "content",
+      "lowercase": false,
+      "max_df": 1.0,
+      "max_features": null,
+      "min_df": 1,
+      "ngram_range": [
+        1,
+        1
+      ],
+      "norm": "l2",
+      "preprocessor": null,
+      "smooth_idf": true,
+      "stop_words": null,
+      "strip_accents": null,
+      "sublinear_tf": true,
+      "token_pattern": null,
+      "tokenizer": "str.split",
+      "use_idf": true,
+      "vocabulary": null
+    },
+    "vocabulary_size": 1768
+  },
+  "decision_tree": {
+    "ccp_alpha": 0.0,
+    "class_weight": null,
+    "criterion": "gini",
+    "max_depth": 3,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "random_state": 42,
+    "splitter": "best"
+  },
+  "evaluation": {
+    "reference": "Rule-generated labels",
+    "zero_division": 0,
+    "macro_average_labels": [
+      "Product Performance Feedback",
+      "Market Adoption Signal",
+      "Competitive Positioning",
+      "Regulatory or Safety Concern"
+    ],
+    "classes_without_test_support": [
+      "Market Adoption Signal",
+      "Regulatory or Safety Concern"
+    ],
+    "test_based_parameter_tuning": false
+  },
+  "environment": {
+    "python": "3.13.15",
+    "packages": {
+      "numpy": "2.5.3",
+      "pandas": "3.0.5",
+      "scipy": "1.18.1",
+      "scikit-learn": "1.9.1",
+      "matplotlib": "3.11.2"
+    }
+  },
+  "input_sha256": {
+    "data/week6_inputs/W06_Analysis_Input.csv": "9c5a63182e2874e9933b13beffe79deeb928a0b08bb252ab1250d25c0c0b5fb1",
+    "data/week6_classification/W06_Keyword_Rules_v1.json": "fb49a426a38785b1479c11292beb6298ee8c981a8e482aedd990ed5f42599caf",
+    "data/week6_classification/W06_Rule_Labels_v1.csv": "27c7b885a3c1257cbdf42cbd61410a8a78f46783bdb6fa1de355d3abafcf9e53",
+    "data/week6_classification/W06_Manual_Label_Audit.csv": "7387139393b552343ed738ceb9c989220d647d79c47934a21f1d5b4d2e63548d"
+  },
+  "output_sha256": {
+    "data/week6_classification/W06_DT_Classification_Report.csv": "95de159e80af30358187ac0a62c1aa84c3f70c4589547f3a5dfd36d58c8f1e9a",
+    "data/week6_classification/W06_DT_Metrics.csv": "1d6a1a49857ec3c2495052af06df189906f54813c9e195508fe78266063cc740",
+    "data/week6_classification/W06_DT_Test_Predictions.csv": "8fa7b44b12c2c0bf2e73604db45f37b2076a1d1ab6b4ecde0a3ac1b872434a64",
+    "data/week6_classification/W06_DT_Confusion_Matrix.csv": "faba44988919b9d5568e136e4a63e79ac7cdd906b7b6a8580372aa03c5ebe46b",
+    "data/week6_classification/W06_DT_Feature_Importance.csv": "4a686cefc066039c01c0bcf61fd80a2f94e18175bc4fa2ff57ef2abc159c1648",
+    "data/week6_classification/W06_DT_Split_Membership.csv": "3ffc33804138dd8cc886b63d387f37c4dbea5328766f3fc976b79180736a6b2f",
+    "data/week6_classification/W06_DT_Class_Support.csv": "cf689d4d9928f1b423659104951267dae1d769c3557e4e50086c10a48a6ca874",
+    "data/week6_classification/W06_DT_Tree_Rules.txt": "bc2dd8bfef599900fa75cb09aeaae5a6215e0366b30d557487bbc186364cc2f7",
+    "data/week6_classification/W06_Rule_Manual_Comparison.csv": "63e26676531da5f807ce9dc0bc9e37521c6e5706d823836c4224c30e3f264a41",
+    "data/week6_classification/W06_Rule_Audit_Summary.csv": "a8e7bdf842ecb3951251f17faf57c5fdd17131905f870b37f4f87f19a8c70fb8",
+    "data/week6_classification/figures/W06_DT_Confusion_Matrix.png": "9cc5ad57a2a6cf53a0aedb20403856a0249503178cacd983e36cde530e3f29a6",
+    "data/week6_classification/figures/W06_DT_Feature_Importance.png": "abab7989de4ff4ff7287e88ab76f4fea0852ac4adc2c190436f51efef5af1ba9"
+  }
+}

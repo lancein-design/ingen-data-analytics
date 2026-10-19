@@ -1,0 +1,45 @@
+{
+  "Product Performance Feedback": [
+    "review",
+    "testing",
+    "performance",
+    "reliability",
+    "usability",
+    "features",
+    "bugs",
+    "freeze",
+    "delay"
+  ],
+  "Market Adoption Signal": [
+    "adoption",
+    "deployment",
+    "pilot",
+    "partnership",
+    "rollout",
+    "launch",
+    "purchase",
+    "subscription"
+  ],
+  "Competitive Positioning": [
+    "competitor",
+    "competition",
+    "alternative",
+    "alternatives",
+    "compared with",
+    "compared to",
+    "versus",
+    "alexa",
+    "google assistant"
+  ],
+  "Regulatory or Safety Concern": [
+    "privacy",
+    "consent",
+    "regulation",
+    "regulatory",
+    "liability",
+    "data protection",
+    "safety concerns",
+    "safety risks",
+    "emergency response"
+  ]
+}

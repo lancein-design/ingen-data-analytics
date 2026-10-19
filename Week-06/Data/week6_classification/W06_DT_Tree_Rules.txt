@@ -1,0 +1,10 @@
+|--- shift <= 0.029312
+|   |--- foster <= 0.024400
+|   |   |--- intention <= 0.016024
+|   |   |   |--- class: Competitive Positioning
+|   |   |--- intention >  0.016024
+|   |   |   |--- class: Regulatory or Safety Concern
+|   |--- foster >  0.024400
+|   |   |--- class: Market Adoption Signal
+|--- shift >  0.029312
+|   |--- class: Product Performance Feedback
