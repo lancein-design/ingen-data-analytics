@@ -1,0 +1,13 @@
+Week 6 Weekly Log
+
+This week, I extended the Week 5 NLP pipeline by analyzing sentiment, functional content categories, and document clusters. I used the existing corpus of 20 articles, aligned records through document IDs, and preserved separate text versions for sentiment analysis and TF-IDF modeling. Relative data paths supported portability for the GitHub deliverables.
+
+VADER classified 19 articles as positive and one as negative. However, reviewing two selected articles showed that overall language polarity could differ from the author’s opinion of a product. The WHYY companionship story described bereavement and isolation and received a negative score, while the critical Senior List review received a strongly positive score. These examples showed why sentiment scores need contextual interpretation. They did not establish a corpus-wide error rate.
+
+For functional classification, I defined four categories and created keyword rules. The rules assigned unique labels to 12 articles, giving 60% coverage. Six articles had tied scores, and two had no matches. I reviewed all 20 articles with AI assistance and recorded labels and rationales. Seven of the 12 assigned rule labels disagreed with the manual reference annotations, a disagreement rate of 58.33%. Incidental keyword mentions often failed to capture the article’s main purpose.
+
+I trained a Decision Tree using nine documents and evaluated it on three, fitting TF-IDF only on the training set. Training accuracy was 100%, but test accuracy against rule labels was 33.33%. All test predictions were Competitive Positioning. These results highlighted limited generalization and the distinction between reproducing noisy labels and correctly interpreting content.
+
+For clustering, I compared K-Means solutions from K = 2 to 8. Five clusters achieved the highest silhouette score, 0.0558, with sizes of 1, 10, 3, 2, and 4 documents. I inspected top terms and representative articles, then compared clusters with source categories and LDA topics. The groups reflected both content and source patterns, with weak separation and one singleton.
+
+I also prepared the technical report, connecting findings to two Fari recommendations: validate caregiver use cases through a feasibility pilot and link product claims to documented capability evidence. My main learning was that label quality, source balance, and contextual reading matter as much as model execution. Final submission checks will cover notebook execution, supporting data, report consistency, and dependencies. Week 7 will move toward deployment ROI modeling with clearly documented assumptions.
