@@ -1,0 +1,14 @@
+Week 7 Weekly Log
+Yincheng Zhang
+
+This week, I developed a reproducible pipeline to predict the three-year net present value (NPV) of Aido Rover deployment scenarios. I generated 250 simulated scenarios using eight inputs covering fleet size, patrol area, baseline security staffing, regional labor costs, operational performance, energy costs, and subscription tier. Operational inputs came from the Week 3 synthetic dataset, while regional wage references came from BLS May 2025 Security Guards data. Financial targets used a three-year cash-flow projection and a 10% discount rate.
+
+A key analytical decision was to distinguish potential labor savings from cash savings. The calculation limits savings by patrol coverage, robot operating capacity, and an assumed cash realization rate. Purchase prices, maintenance costs, and subscription fees were documented as analyst assumptions rather than verified vendor prices. I also kept configuration settings together and used relative paths to support reproducibility and GitHub portability.
+
+I compared Linear Regression, Random Forest, and Gradient Boosting using the same five-fold cross-validation splits on 200 training scenarios. Preprocessing remained inside each model pipeline to prevent information leakage between folds. Gradient Boosting achieved the lowest mean validation RMSE of $28,357.41 and was selected before evaluating the 50 held-out test scenarios. Its final test RMSE was $24,205.13, with an R² of 0.9589. I exported the evaluation results, predictions, diagnostic plots, and fitted pipeline.
+
+Feature importance identified robot units and baseline security staff FTE as the leading inputs in both tree models. Together, they represented 81.26% of Gradient Boosting’s normalized importance. Formula-based sensitivity analysis helped explain their financial effects. In the baseline scenario, adding robots reduced NPV because additional costs exceeded incremental savings. Increasing baseline staffing raised potential savings until robot capacity became the limiting factor. These findings show why deployment scale must be considered alongside achievable labor savings.
+
+The main limitation is the simulated evidence base. Strong test results demonstrate that the model approximates the configured financial calculator, but they do not validate actual deployment returns. Incident detection rate was not monetized in the target formula, so its small importance cannot establish a financial benefit. Larger simulated samples alone would not resolve these limitations.
+
+I completed the Model Card documenting intended use, assumptions, evaluation results, and restrictions. No technical blockers remain. The remaining work is to review the submission package. Future validation should use verified pricing, measured operating performance, and independent deployment outcomes.
