@@ -1,0 +1,52 @@
+﻿region,state_code,hourly_wage_usd,annual_wage_usd,national_annual_wage_usd,labor_cost_index,source_period,occupation_code,wage_statistic,state_source_url,national_source_url,data_origin
+Alaska,AK,26.03,54140,42470.0,1.2747821991994348,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Alabama,AL,16.67,34680,42470.0,0.8165764068754415,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Arkansas,AR,18.41,38300,42470.0,0.9018130445020014,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Arizona,AZ,19.69,40950,42470.0,0.9642100306098422,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+California,CA,21.6,44920,42470.0,1.057687779609136,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Colorado,CO,22.05,45870,42470.0,1.0800565104779845,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Connecticut,CT,21.72,45180,42470.0,1.0638097480574522,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+District of Columbia,DC,29.19,60720,42470.0,1.4297150930068283,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Delaware,DE,21.04,43750,42470.0,1.0301389215917118,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Florida,FL,18.08,37610,42470.0,0.8855662820814693,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Georgia,GA,18.22,37890,42470.0,0.8921591711796563,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Hawaii,HI,20.9,43470,42470.0,1.0235460324935248,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Iowa,IA,20.3,42220,42470.0,0.9941134918766188,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Idaho,ID,21.2,44100,42470.0,1.0383800329644455,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Illinois,IL,21.27,44240,42470.0,1.041676477513539,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Indiana,IN,19.55,40660,42470.0,0.9573816811867201,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Kansas,KS,19.4,40350,42470.0,0.9500824111137274,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Kentucky,KY,18.53,38540,42470.0,0.9074640923004473,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Louisiana,LA,17.35,36080,42470.0,0.8495408523663762,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Massachusetts,MA,21.52,44760,42470.0,1.053920414410172,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Maryland,MD,21.41,44530,42470.0,1.0485048269366612,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Maine,ME,19.9,41390,42470.0,0.9745702849069932,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Michigan,MI,19.54,40640,42470.0,0.9569107605368495,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Minnesota,MN,21.86,45460,42470.0,1.0704026371556392,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Missouri,MO,21.68,45100,42470.0,1.0619260654579703,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Mississippi,MS,15.26,31750,42470.0,0.7475865316694137,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Montana,MT,20.32,42270,42470.0,0.995290793501295,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+North Carolina,NC,18.79,39090,42470.0,0.9204144101718861,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+North Dakota,ND,20.74,43150,42470.0,1.016011302095597,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Nebraska,NE,21.63,45000,42470.0,1.0595714622086179,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+New Hampshire,NH,23.01,47850,42470.0,1.1266776548151636,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+New Jersey,NJ,20.92,43520,42470.0,1.0247233341182012,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+New Mexico,NM,22.26,46300,42470.0,1.0901813044502002,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Nevada,NV,19.12,39770,42470.0,0.936425712267483,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+New York,NY,22.33,46450,42470.0,1.0937132093242288,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Ohio,OH,19.21,39950,42470.0,0.9406639981163174,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Oklahoma,OK,19.02,39560,42470.0,0.9314810454438427,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Oregon,OR,22.32,46420,42470.0,1.0930068283494232,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Pennsylvania,PA,19.32,40180,42470.0,0.9460795855898281,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Rhode Island,RI,19.39,40320,42470.0,0.9493760301389216,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+South Carolina,SC,17.82,37060,42470.0,0.8726159642100306,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+South Dakota,SD,19.35,40250,42470.0,0.9477278078643748,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Tennessee,TN,18.51,38500,42470.0,0.9065222510007064,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Texas,TX,18.54,38550,42470.0,0.9076995526253826,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Utah,UT,20.7,43050,42470.0,1.0136566988462443,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Virginia,VA,22.63,47070,42470.0,1.1083117494702142,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Vermont,VT,24.41,50770,42470.0,1.1954320696962561,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Washington,WA,24.41,50770,42470.0,1.1954320696962561,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Wisconsin,WI,19.9,41390,42470.0,0.9745702849069932,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+West Virginia,WV,15.06,31320,42470.0,0.737461737697198,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS
+Wyoming,WY,20.51,42660,42470.0,1.0044737461737696,May 2025,33-9032,mean,https://www.bls.gov/oes/special-requests/oesm25st.zip,https://www.bls.gov/oes/special-requests/oesm25nat.zip,PUBLIC_BLS

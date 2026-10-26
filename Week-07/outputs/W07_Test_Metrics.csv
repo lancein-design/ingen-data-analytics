@@ -1,0 +1,2 @@
+model,training_records,test_records,cv_rmse_mean_usd,cv_r2_mean,test_rmse_usd,test_r2
+Gradient Boosting,200,50,28357.414875201976,0.9403456496002175,24205.126640851096,0.9588814509247621
